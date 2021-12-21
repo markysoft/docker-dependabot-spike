@@ -1,7 +1,7 @@
 # Set default values for build arguments
 #ARG BASE_VERSION=14.17.6-alpine3.14
 
-FROM node:14.17.6-alpine3.14 AS production
+FROM node:17.3.0-alpine3.14 AS production
 
 # ARG BASE_VERSION
 
